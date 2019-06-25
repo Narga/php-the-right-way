@@ -1,6 +1,7 @@
 ## Mở đầu
 
 Có rất nhiều thông tin lỗi thời, các ví dụ với mã tồi và thiếu an toàn trên Web khiến cho người mới học PHP trở nên lầm đường lạc lối. _PHP: Học Đúng Cách_ là một tài liệu dễ đọc, dễ tra cứu dành cho người mới học. Nội dung nó bao gồm các chỉ dẫn về các tiêu chuẩn viết mã phổ biến, các bài viết có nội dung tốt và cập nhật thường xuyên giúp người dùng dễ dàng tham khảo.
+
 _Không có cách sử dụng PHP chuẩn nhất_ Trang này nhắm vào việc giới thiệu cho người mới học PHP một số nội dung cốt yếu cần biết khi bắt đầu. Điều mà một số nhà phát triển PHP lấy làm tiếc vì mãi về sau này mới biết được. Ngoài ra nó có một vài ý tưởng và thông tin mới mẻ có thể giúp những nhà phát triển PHP có kinh nghiệm thay đổi cách triển khai hay xem xét lại các dự án cũ. Tài liệu này không hướng dẫn bạn nên dùng công cụ nào, thay vào đó đưa ra nhiều lựa chọn dựa trên những cách tiếp cận khác nhau và các tình huống cụ thể.
 
 Tài liệu này sẽ luôn được cập nhật liên tục theo phiên bản mới nhất của PHP với các thông tin và ví dụ hữu ích.
@@ -37,11 +38,9 @@ _PHP: The Right Way_ đã được dịch ra nhiều ngôn ngữ khác nhau, tro
 
 Phiên bản mới nhất (bằng tiếng Anh) _PHP: The Right Way_ được xuất bản với định dạng  PDF, EPUB và MOBI. [Xem trên Leanpub][1]
 
-## Làm sao để góp sức
+## Cùng nhau góp sức
 
-Cùng đóng góp để tài liệu này trở thành nguồn kiến thức tham khảo tốt cho người mới học PHP! [Contribute on GitHub][2]
+Bạn có thể cùng chúng tôi xây dựng tài liệu này trở thành nguồn kiến thức tham khảo tốt cho người mới học PHP bằng cách đóng góp nội dung, chỉ ra các lỗi sai! [Tham gia trên GitHub][2]
 
 [1]: https://leanpub.com/phptherightway
-[2]: https://github.com/codeguy/php-the-right-way/tree/gh-pages
-
 [2]: https://github.com/codeguy/php-the-right-way/tree/gh-pages
